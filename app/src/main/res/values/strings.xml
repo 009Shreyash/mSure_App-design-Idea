@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Msure</string>
+    <string name="sendotp_key">195584AXIIEC8Zk15a6ee158</string>
+    <string name="enterphonenumber">Enter your phone number</string>
+    <string name="selectcountry">Select country</string>
+    <string name="sending_sms">We\'re sending an sms to</string>
+    <string name="inprogress">Verification in\nprogress</string>
+    <string name="verified">Verification successful</string>
+    <string name="failed">Verification failed</string>
+    <string name="entercode">Please enter the code you received</string>
+    <string name="termsandcondition">Terms and condition</string>
+    <string name="contactus">Contact Us</string>
+    <string name="aboutus">About Us</string>
+    <string name="see_all"><u>See All</u></string>
+    <string name="termes">
+        * Our minimum visiting charges mention in our app and web-site page. \n\n
+        * Please fix the rates with the services provider before the work is started.\n\n
+        * We provide free after-services guarantee for a period 5 days(excluding faulty parts)
+    </string>
+    <string name="about_us">
+        * We heard many people say that it is impossible to find a plumber electrician carpenter who is reliable and can do a quality job. This set us thinking why the current search directories dont work. \n\n
+        * The reasons were many: They were paid listings Reviews were fake not reliable And once we leave our contact number with search directories  we would get a plethora of calls making my life hell. \n\n
+        * Moreover we still do not have a clue of which service provider to engage with as there is no guarantee of quality of work  fair pricing and the provider coming on time to do the job.\n\n
+        * This set us thinking, why this process has to be so painful. \n\n
+        * Why cant we buy local services the way we buy products from ecommerce sites on the click of a button Msure was conceived to solve precisely this pain area.\n\n
+
+         * Because we have \n\n
+
+    * We aim to service all clients within in one working day \n\n
+
+    * Qualified licence trade man fully insured and police check \n\n
+
+    * Genuine warranty with reliable backup service \n\n
+
+    * Very competitive pricing day or night \n\n
+
+    * On time service \n\n
+
+    * Compliance certificate for all kind of service work \n\n
+
+    * Domestic and e-commerce service specialist \n\n
+
+    * Experience is the difference \n\n
+
+    </string>
+
+    <string-array name="acc_type">
+        <item>Home Services</item>
+        <item>Business Services</item>
+        <item>Event And Wedding Services</item>
+        <item>Beaauty And Health Services</item>
+        <item>Other Services</item>
+
+    </string-array>
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Pick a Service</string>
+    <string name="slide_1_desc">Choose a service you want</string>
+
+    <string name="slide_2_title">Book online</string>
+    <string name="slide_2_desc">Book a service which you need</string>
+
+    <string name="slide_3_title">Pay after Work is done</string>
+    <string name="slide_3_desc">Pay after the service</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+</resources>
